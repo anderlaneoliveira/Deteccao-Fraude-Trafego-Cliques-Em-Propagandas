@@ -1,4 +1,4 @@
-![Linguagem R](https://github.com/anderlaneoliveira/deteccao-fraude-trafego-cliques-em-propagandas/blob/master/dataset/Rlogo.png)
+![Linguagem R](https://github.com/anderlaneoliveira/deteccao-fraude-trafego-cliques-em-propagandas/blob/master/dataset/Rlogo.png | width=50)
 
 # Machine Learnig em Liguagem R
 Projeto Data Science - Detecção de Fraudes no Tráfego de Cliques em Propagandas de Aplicações Mobile

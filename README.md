@@ -1,6 +1,6 @@
 <img src='dataset/Rlogo.png' width='50'>
 
-# Machine Learnig em Liguagem R
+# Machine Learning em Liguagem R
 Projeto Data Science - Detecção de Fraudes no Tráfego de Cliques em Propagandas de Aplicações Mobile
 
 

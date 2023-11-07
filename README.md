@@ -15,7 +15,7 @@ Criar um modelo de aprendizado de máquina que possa prever se um usuário fará
 - 2.Informações preliminares sobre os dados
 - 3.Transformação e Manipulação dos Dados
 - 4.Análise Exploratória de Dados
-- 5.Modelagem Preditiva Sem Balanceamento do Dataset
+- 5.Modelagem Preditiva sem Balanceamento do Dataset
 - 6.Modelagem Preditiva após Balanceamento do Dataset
 - 7.Avaliação do Modelo Preditivo
 

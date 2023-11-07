@@ -1,11 +1,13 @@
-![Linguagem R] (https://github.com/anderlaneoliveira/deteccao-fraude-trafego-cliques-em-propagandas/blob/master/dataset/Rlogo.png)
+![Linguagem R](https://github.com/anderlaneoliveira/deteccao-fraude-trafego-cliques-em-propagandas/blob/master/dataset/Rlogo.png)
 
 # Machine Learnig em Liguagem R
 Projeto Data Science - Detecção de Fraudes no Tráfego de Cliques em Propagandas de Aplicações Mobile
 
+
 # :chart_with_upwards_trend: Objetivo:
 
 Criar um modelo de aprendizado de máquina que possa prever se um usuário fará o download de um aplicativo depois de clicar em um anúncio de aplicativo para dispositivos móveis.
+
 
 # :calendar: Etapas do Projeto:
 
@@ -17,9 +19,11 @@ Criar um modelo de aprendizado de máquina que possa prever se um usuário fará
 - 6.Modelagem Preditiva após Balanceamento do Dataset
 - 7.Avaliação do Modelo Preditivo
 
+
 # :open_file_folder: Ferramentas Utilizadas
 
 - RStudio
+
 
 ## Autora
 

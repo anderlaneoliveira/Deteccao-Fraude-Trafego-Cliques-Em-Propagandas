@@ -11,13 +11,13 @@ Criar um modelo de aprendizado de máquina que possa prever se um usuário fará
 
 # :calendar: Etapas do Projeto:
 
-- 1.Carregamento e vizualização dos dados obtidos
-- 2.Informações preliminares sobre os dados
-- 3.Transformação e Manipulação dos Dados
-- 4.Análise Exploratória de Dados
-- 5.Modelagem Preditiva sem Balanceamento do Dataset
-- 6.Modelagem Preditiva após Balanceamento do Dataset
-- 7.Avaliação do Modelo Preditivo
+- Carregamento e vizualização dos dados obtidos
+- Informações preliminares sobre os dados
+- Transformação e Manipulação dos Dados
+- Análise Exploratória de Dados
+- Modelagem Preditiva sem Balanceamento do Dataset
+- Modelagem Preditiva após Balanceamento do Dataset
+- Avaliação do Modelo Preditivo
 
 
 # :open_file_folder: Ferramentas Utilizadas
